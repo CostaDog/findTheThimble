@@ -1,0 +1,1 @@
+This is my 'find the thimble' C# game, written as a console app.
